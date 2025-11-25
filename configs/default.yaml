@@ -1,0 +1,16 @@
+# Default configuration for Phase 1
+models:
+  yolo:
+    model_type: "yolov8l.pt"
+    confidence_threshold: 0.25
+    
+  clip:
+    model_name: "ViT-B-32"
+    pretrained: "laion2b_s34b_b79k"
+
+data:
+  test_image: "https://ultralytics.com/images/bus.jpg"
+  
+evaluation:
+  save_visualizations: true
+  output_dir: "../results"
