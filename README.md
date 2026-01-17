@@ -1,16 +1,5 @@
 # Zero-Shot Image Classification using CLIP
 
-Group:
-
-Man Vijaybhai PATEL – DIA1
-
-Luthfi Juneeda SHAJ – DIA1
-
-Sethulakshmi KOCHUCHIRAYIL BABU – DIA1
-
-Yasar THAJUDEEN – DIA1
-
-
 This project demonstrates zero-shot image classification on a custom dataset using **OpenAI CLIP**. The pipeline compares zero-shot performance with few-shot / fine-tuned baselines and explores prompt engineering and visual reasoning.
 
 ---
